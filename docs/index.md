@@ -1,11 +1,19 @@
 # NorGliders Field Guides
 
-Welcome to the NorGliders Field Guides.
-
-These guides provide concise, task-oriented operating procedures for oceanographic instruments used by the NorGliders laboratory.
+Operating procedures for oceanographic instruments used by the NorGliders laboratory.
 
 The guides are intended to complement, not replace, the manufacturer's documentation.
 
-## Available Guides
+<div class="guide-grid">
 
-- MicroRider-1000
+<a class="guide-card" href="microrider-1000/vertical-profiling-frame/">
+
+<img src="microrider-1000/vertical-profiling-frame/images/microrider-cover.jpg" alt="MicroRider-1000">
+
+<h2>MicroRider-1000</h2>
+
+<h3>Vertical Profiling Frame</h3>
+
+</a>
+
+</div>

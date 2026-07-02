@@ -2,8 +2,47 @@ site_name: NorGliders Field Guides
 site_description: Operating procedures for NorGliders field instrumentation.
 repo_url: https://github.com/NorGliders/field-guides
 
+plugins:
+  - search
+  - print-site:
+      add_to_navigation: false
+
 theme:
   name: material
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+    - navigation.instant 
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: custom
+      accent: blue
+  logo: assets/logos/UiB-emblem_white.svg
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
@@ -11,6 +50,5 @@ nav:
   - MicroRider-1000:
       - Vertical Profiling Frame:
           - Overview: microrider-1000/vertical-profiling-frame/index.md
-          - Introduction: microrider-1000/vertical-profiling-frame/introduction.md
           - Required Equipment: microrider-1000/vertical-profiling-frame/required-equipment.md
           - Mounting: microrider-1000/vertical-profiling-frame/mounting.md
