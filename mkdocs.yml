@@ -1,5 +1,6 @@
 site_name: NorGliders Field Guides
 site_description: Operating procedures for NorGliders field instrumentation.
+site_url: https://norgliders.github.io/field-guides/
 repo_url: https://github.com/NorGliders/field-guides
 
 plugins:
