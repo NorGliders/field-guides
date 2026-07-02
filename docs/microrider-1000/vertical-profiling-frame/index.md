@@ -35,7 +35,7 @@ This field guide describes the procedures for preparing, configuring, deploying 
 !!! note "Scope"
 
     The complete instrument reference is available in the
-    [Rockland Scientific Instruments (RSI) MicroRider-1000 User Manual](../../../assets/manuals/Manual_MR1000_190328.pdf).
+    [Rockland Scientific Instruments (RSI) MicroRider-1000 User Manual](../../assets/manuals/Manual_MR1000_190328.pdf).
 
 !!! warning "Fragile microstructure probes"
 
