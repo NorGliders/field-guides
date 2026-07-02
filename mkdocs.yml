@@ -1,0 +1,16 @@
+site_name: NorGliders Field Guides
+site_description: Operating procedures for NorGliders field instrumentation.
+repo_url: https://github.com/NorGliders/field-guides
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+
+  - MicroRider-1000:
+      - Vertical Profiling Frame:
+          - Overview: microrider-1000/vertical-profiling-frame/index.md
+          - Introduction: microrider-1000/vertical-profiling-frame/introduction.md
+          - Required Equipment: microrider-1000/vertical-profiling-frame/required-equipment.md
+          - Mounting: microrider-1000/vertical-profiling-frame/mounting.md
