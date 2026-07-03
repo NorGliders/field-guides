@@ -39,17 +39,5 @@ This field guide describes the procedures for preparing, configuring, deploying 
 
 !!! warning "Fragile microstructure probes"
 
-    The shear probes and FP07 temperature probes are extremely fragile. Even light contact with fingers, clothing, or other objects can permanently damage the sensing tips.If possible keep protective guard installed until just before deploying, and always handle the probes by their base.
+    The shear probes and FP07 temperature probes are extremely fragile. Even the slightest contact with fingers, clothing or other objects can permanently damage the sensing tips. Before deployment and recovery, ensure all personnel are aware of the probe location and avoid any contact with the probes.
 
-## Procedures
-
-1. Required Equipment
-2. Mount the Instrument
-3. Program & Bench Test
-4. Install the Probes
-5. Pre-deployment Checklist
-6. Recovery
-7. Download Data
-8. Cleaning & Storage
-9. Troubleshooting
-10. Appendix

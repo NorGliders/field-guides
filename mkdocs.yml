@@ -51,5 +51,18 @@ nav:
   - MicroRider-1000:
       - Vertical Profiling Frame:
           - Overview: microrider-1000/vertical-profiling-frame/index.md
-          - Required Equipment: microrider-1000/vertical-profiling-frame/required-equipment.md
-          - Mounting: microrider-1000/vertical-profiling-frame/mounting.md
+
+          - Preparation:
+              - Required Equipment: microrider-1000/vertical-profiling-frame/required-equipment.md
+              - Mount the Instrument: microrider-1000/vertical-profiling-frame/mounting.md
+              - Install the Microstructure Probes: microrider-1000/vertical-profiling-frame/install-probes.md
+
+          - Deployment:
+              - Pre-deployment Checklist: microrider-1000/vertical-profiling-frame/pre-deployment-checklist.md
+
+          - Recovery:
+              - Communications & Download Data: microrider-1000/vertical-profiling-frame/comms.md
+              - Cleaning & Storage: microrider-1000/vertical-profiling-frame/storage.md
+
+          - Support:
+              - Operating Notes: microrider-1000/vertical-profiling-frame/operational.md
