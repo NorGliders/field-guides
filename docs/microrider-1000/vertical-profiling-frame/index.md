@@ -45,12 +45,11 @@ This field guide describes the procedures for preparing, configuring, deploying 
 
 1. Required Equipment
 2. Mount the Instrument
-3. Connect the Cables
+3. Program & Bench Test
 4. Install the Probes
-5. Program & Bench Test
-6. Pre-deployment Checklist
-7. Recovery
-8. Download Data
-9. Cleaning & Storage
-10. Troubleshooting
-11. Appendix
+5. Pre-deployment Checklist
+6. Recovery
+7. Download Data
+8. Cleaning & Storage
+9. Troubleshooting
+10. Appendix
