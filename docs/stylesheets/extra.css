@@ -12,7 +12,7 @@
 }
 
 .md-typeset {
-    font-size: 0.4rem;
+    font-size: 0.9rem;
 }
 
 
@@ -104,6 +104,21 @@
     height: 42px;
     width: auto;
     max-height: none;
+}
+
+/* Remove "Made with Material for MkDocs" */
+.md-copyright a[href*="squidfunk.github.io"] {
+    display: none;
+}
+
+/* Hide the text "Made with" */
+
+.md-copyright {
+    font-size: 0;
+}
+
+.md-copyright__highlight {
+    font-size: 0.5rem;   /* or whatever size you prefer */
 }
 
 :root {
